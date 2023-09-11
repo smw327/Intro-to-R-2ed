@@ -1,5 +1,5 @@
-# R script to accopany Intro to R
-# Copy for RStudent 2019
+# R script to accompany Intro to R
+# Copy for Sean 2019
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
@@ -7,3 +7,4 @@
 # 
 # In fact, you can put comments anywhere on a line as long as 
 # you put "#" before them.
+#amogus
